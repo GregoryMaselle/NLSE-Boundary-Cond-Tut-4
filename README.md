@@ -3,7 +3,8 @@ This is matlab code to get the solution of the Non-linear Schrodinger Equation u
 The problem being solved is the Following:
 
 Provided the equation:
-            i*(∂u/∂t) + (∂^2u/dx^2) + 2|u|^2 * u = 0
+            i*(∂u/∂t) + (∂^2u/
+            ∂x^2) + 2|u|^2 * u = 0
 with periodic boundary conditions: 
             u(0,t) = u(20,t)
             ∂u/∂x(0,t) = ∂u/∂x(20,t).
