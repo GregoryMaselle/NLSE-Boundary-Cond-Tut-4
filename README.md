@@ -1,4 +1,4 @@
-# NLSE-Boundary-Cond-Tut-4
+# Non-lionear Schrodinger Equation University Tutorial Submission 
 This is matlab code to get the solution of the Non-linear Schrodinger Equation using Finite differences with an explicit scheme.
 The problem being solved is the Following:
 
